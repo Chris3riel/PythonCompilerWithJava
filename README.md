@@ -15,7 +15,7 @@ Clona este repositorio en tu máquina local:
 
 sh
 Copiar código
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Chris3riel/PythonCompilerWithJava.git
 Abre tu entorno de desarrollo integrado (IDE) favorito y carga el proyecto.
 
 Asegúrate de añadir Jython a las dependencias de tu proyecto. Puedes hacerlo agregando el archivo JAR de Jython a tu ruta de compilación.
