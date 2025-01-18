@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f3b70681-17b1-45c0-91ce-299d09680943)
+
 Compilador de Python con Interfaz Gráfica en Java
 Este proyecto es un compilador de Python con una interfaz gráfica desarrollada en Java. La ejecución del código Python se realiza utilizando la biblioteca Jython, que permite la integración de Python en aplicaciones Java.
 
